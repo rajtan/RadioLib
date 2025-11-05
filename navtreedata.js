@@ -27,7 +27,7 @@ var NAVTREE =
   [ "RadioLib", "index.html", [
     [ "RadioLib Documentation", "index.html", null ],
     [ "Todo List", "todo.html", null ],
-    [ "Modules", "modules.html", "modules" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -35,14 +35,19 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", null ],
+        [ "Variables", "functions_vars.html", "functions_vars" ],
         [ "Typedefs", "functions_type.html", null ],
         [ "Enumerations", "functions_enum.html", null ],
         [ "Enumerator", "functions_eval.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ]
+      [ "File List", "files.html", "files_dup" ],
+      [ "File Members", "globals.html", [
+        [ "All", "globals.html", null ],
+        [ "Variables", "globals_vars.html", null ],
+        [ "Macros", "globals_defs.html", null ]
+      ] ]
     ] ]
   ] ]
 ];
@@ -50,11 +55,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_a_f_s_k_8h_source.html",
-"class_lo_ra_w_a_n_node.html#ae532e739ada04ea7463494a426f60b4d",
-"class_radio_lib_hal.html#a300a47d4d43dbe0c624f6e5dc1cf7a00",
-"class_s_x1278.html#a834f26a0bd3fc8a03fa7e68aa4daf9e1",
-"classn_r_f24.html",
-"struct_bell_modem__t.html#a27c1a411df3d887ca0ce246c3b5521f7"
+"class_l_r1110.html#ae084d4503b2abcdc508edef40b0cadb3",
+"class_physical_layer.html#a67ee4ec36f352d06dda0102260f6bfce",
+"class_s_t_m32_w_lx___module.html",
+"class_s_x127x.html#a448ea8a6a6011a9cdddd4e09bd6c9679",
+"classn_r_f24.html#a38b0084ad11090f918f4f370b9df7514",
+"group__status__codes.html#gac314f4bd89f306c8a16237be9a9c80cb",
+"struct_r_s_s_i_scan_config__t.html#a8a9bf05648e82b49d43d6275ecf3cc3b"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

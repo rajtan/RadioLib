@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['standby_20mode_20type_20aliases_2e_1015',['Standby mode type aliases.',['../group__config__standby.html',1,'']]],
-  ['status_20codes_1016',['Status Codes',['../group__status__codes.html',1,'']]]
+  ['data_20shaping_20filter_20values_20aliases_0',['Data shaping filter values aliases.',['../group__config__shaping.html',1,'']]]
 ];
